@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    wei.chen02@xjtlu.edu.cn:
+      email: wei.chen02@xjtlu.edu.cn
+      name: WEI CHEN
+      password: $2b$12$D/gH/JYNKXGPklIeFxKQuOAUHRMT7UWX44AO79ru2dsv8y.ZX44ye
+preauthorized:
+  emails:
+  - fei.liu.csu@gmail.com
